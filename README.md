@@ -6,3 +6,7 @@ This is a demo repo to learning about cloud computing solutions
 * one
 * two
 * three
+
+### Gist
+
+Example of code using gist -> [my code](https://gist.github.com/166256dsfarias/f708e3112fd2ac71a14d30dcf6c82ae6)
